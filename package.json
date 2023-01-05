@@ -36,10 +36,10 @@
         "weekstart": "^1.0.1"
     },
     "devDependencies": {
-        "@vue/cli-plugin-babel": "^4.1.2",
+        "@vue/cli-plugin-babel": "^4.5.19",
         "@vue/cli-plugin-eslint": "^3.4.0",
         "@vue/cli-plugin-pwa": "^3.4.0",
-        "@vue/cli-service": "^3.4.0",
+        "@vue/cli-service": "^5.0.8",
         "node-sass": "^4.11.0",
         "sass-loader": "^7.1.0",
         "vue-cli-plugin-i18n": "^0.5.1",
